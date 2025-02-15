@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🌟 Phwish!
+
+Hello, hello! I'm Kevin McGillivray (he/him); software engineer, artist, and convivial co-conspirator. For me, this is the year of the [Enchanter](https://www.kevinmcgillivray.net/word/enchanter/).
 
 <!--
 **kmcgillivray/kmcgillivray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

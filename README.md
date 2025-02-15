@@ -1,18 +1,29 @@
-## 🌟 Phwish!
+# 🌟 Phwish!
 
-Hello, hello! I'm Kevin McGillivray (he/him); software engineer, artist, and convivial co-conspirator. For me, this is the year of the [Enchanter](https://www.kevinmcgillivray.net/word/enchanter/).
+Hello, hello! I'm Kevin McGillivray (he/him); software engineer, [artist](https://studio.kevinmcgillivray.net), and convivial co-conspirator. For me, this is the year of the [Enchanter](https://www.kevinmcgillivray.net/word/enchanter/).
 
-<!--
-**kmcgillivray/kmcgillivray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My current projects
 
-Here are some ideas to get you started:
+- 🪄 **Enchanted Table**, a web app for practicing creativity with oracle decks
+- ✍️ **Appleton Drawing Club**, friendly, local life drawing meetups in my town
+- 🍂 **[Enchantment Supply](https://enchantment.supply)**, my art studio worldbuilding RPG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Questions I care about
+
+As a web developer, I work on projects that help me explore these questions. I like to focus on the things that grow with the grain of the web: accessibility, progressive enhancement, and open standards.
+
+- **What is creativity?** What stories do we tell about creativity? [How might we practice it in its full nuance and complexity?](https://practicingcreativity.kevinmcgillivray.net)
+- **How might we co-create accessible, neighborly communities?** What paths and patterns do we perceive between our homes, neighborhoods, towns, and _the web_? How can we create accessible, inclusive, human scale networks and identities, [across online and offline spaces](https://kmcgillivray.github.io/a-web-pattern-language/)?
+- **How do we contribute to enchantment**, repair, and wholeness? Where does the _Quality Without a Name_ emerge and how do we enchant it in our [days](https://patternworkshop.substack.com)?
+
+## Fun facts
+
+- I order my left handed cappuccinos
+- My favorite tree is a scots pine in my neighborhood
+
+## Where to find me
+
+- [Personal site](https://www.kevinmcgillivray.net)
+- [Art](https://studio.kevinmcgillivray.net) | [Enchantment Supply](https://enchantment.supply)
+- [Instagram](https://www.instagram.com/kev_mcg/)
+- [Bluesky](https://bsky.app/profile/schmevin.bsky.social)

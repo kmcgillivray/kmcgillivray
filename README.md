@@ -18,7 +18,7 @@ As a web developer, I work on projects that help me explore these questions. I l
 
 ## Fun facts
 
-- I order my left handed cappuccinos
+- I order left handed cappuccinos
 - My favorite tree is a scots pine in my neighborhood
 
 ## Where to find me
